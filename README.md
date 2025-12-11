@@ -41,13 +41,13 @@ Sample Query – Total Revenue:
 SELECT SUM(total_price) AS Total_Revenue
 FROM pizza_sales$;
 
-### Key Insights & Recommendations
+### Key Insights and Recommendations
 - Classic Deluxe and Chicken Pizzas are top sellers — consider promoting these more.
 - Large-size pizzas contribute significantly to sales — offer bundle promotions with Large sizes.
 - Most orders are placed Friday/Saturday evenings, especially between 6 PM – 8 PM — introduce discount campaigns on off-peak days (Sunday–Wednesday) between 1 PM – 3 PM and 9 PM – 11 PM.
 - Brie Carre Pizza has the lowest sales and revenue — consider updating the recipe or running marketing tests to increase its appeal.
 
-### Challenges Faced & What I Learned
+### Challenges Faced and What I Learned
 - Learned how to join multiple tables using SQL foreign keys.
 - Improved Excel skills in calculating KPIs using formulas and pivot tables.
 - Gained experience presenting findings clearly through charts and dashboards.
