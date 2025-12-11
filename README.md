@@ -9,6 +9,10 @@
 ### Project Overview
 This project analyzes a pizza sales dataset to uncover customer preferences, identify peak sales hours, and determine top-performing products. The goal is to generate actionable insights to improve sales strategies and operational efficiency for a fictional pizza shop.
 
+
+<img width="1116" height="628" alt="dashboard_page" src="https://github.com/user-attachments/assets/b07d5a36-e5f4-4b99-be42-c9173e71164c" />
+
+
 ### Tools Used
 - Microsoft Excel
 - SQL Server
