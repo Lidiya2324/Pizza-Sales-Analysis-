@@ -57,6 +57,6 @@ FROM pizza_sales$;
 - Improved Excel skills in calculating KPIs using formulas and pivot tables.
 - Gained experience presenting findings clearly through charts and dashboards.
 
-
+Thank You😄😄
 
 
